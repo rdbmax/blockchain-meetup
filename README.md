@@ -1,5 +1,11 @@
 # Blockchain Meetup
 
+## Event
+
+February 22, 2018 7pm @ Clevermind
+
+11 Rue Bailly, 92200 Neuilly-sur-Seine, France
+
 ## Summary
 
 - Blockchain intro
