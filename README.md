@@ -29,12 +29,12 @@ The very first Blockchain ever created, was Blockchain.
 
 Example : usage in Madame Michu building... bla bla bla...
 
-    - History
+   - History
 After the subprime crisis, relation ship with banks were complicated. A guy (or a group of people) using the nickname of Satoshi Nakamoto introduced for the first time an electronic currency that relies on the technology of Blockchain, where people does not need third part validation to exchange value
 How did the cryptocurrency came to life ?
 (See events part...)
 
-    - Usages
+   - Usages
         - Some coins
             - BAT
             - Etherum
