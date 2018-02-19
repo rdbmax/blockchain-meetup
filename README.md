@@ -2,23 +2,22 @@
 
 ## Event
 
-February 22, 2018 7pm @ Clevermind
+February 22, 2018 7pm @ [Clevermind](http://www.clevermind.fr/)
 
 11 Rue Bailly, 92200 Neuilly-sur-Seine, France
 
 ## Summary
 
-- Blockchain intro
-- Crypto world intro
+1. Blockchain & Crypto world intro
   - History
   - Events
   - Usages
     - Some coins
     - Trading
   - ICOs
-  -Smart contracts
-- Theory blockchain
-- Naivechain
+  - Smart contracts
+2. Theory blockchain
+3. Naivechain
   - Code review
   - Make it works
   - Issues / Hacks
