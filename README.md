@@ -23,6 +23,15 @@ February 22, 2018 7pm @ [Clevermind](http://www.clevermind.fr/)
     - Issues / Hacks
     - Improvements
 
+## Details
+1. Blockchain and Cryptocurrencies world intro
+
+  The Blockchain is about a **decentralized ledger**, where people around the same Business Network save the transactions. The purpose of creating that kind of technology is to get rid from the third part role.
+The very first Blockchain ever created, was Blockchain.
+2. History
+After the subprime crisis, many banks were 
+  How did the cryptocurrency came to life ? 
+  
 ## Links
 
 - [Naivechain](https://github.com/lhartikk/naivechain)
