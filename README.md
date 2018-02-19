@@ -9,8 +9,7 @@ February 22, 2018 7pm @ [Clevermind](http://www.clevermind.fr/)
 ## Summary
 
 1. Blockchain & Crypto world intro
-    - History
-    - Events
+    - History / Events
     - Usages
       - Some coins
       - Trading
@@ -25,13 +24,24 @@ February 22, 2018 7pm @ [Clevermind](http://www.clevermind.fr/)
 
 ## Details
 1. Blockchain and Cryptocurrencies world intro
+    The Blockchain is about a **decentralized ledger**, where people around the same Business Network save the transactions. The purpose of creating that kind of technology is to get rid from the third part role.
+    The very first Blockchain ever created, was Blockchain.
+    History
+        After the subprime crisis, many banks were
+        How did the cryptocurrency came to life ?
+    Usages
+        - Some coins
+            - BAT
+            - Etherum
+            - KYC legal
+            - IOTA
+            - Ripple
+        - Trading
+            - Exchanges demo
+    ICOs
+$.
 
-  The Blockchain is about a **decentralized ledger**, where people around the same Business Network save the transactions. The purpose of creating that kind of technology is to get rid from the third part role.
-The very first Blockchain ever created, was Blockchain.
-2. History
-After the subprime crisis, many banks were 
-  How did the cryptocurrency came to life ? 
-  
+
 ## Links
 
 - [Naivechain](https://github.com/lhartikk/naivechain)
