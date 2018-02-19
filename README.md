@@ -31,3 +31,4 @@ February 22, 2018 7pm @ Clevermind
 ## Contributors
 
 - [Maxime Boudier](https://github.com/rdbmax)
+- [Ahmed Abida](https://github.com/aabida)
