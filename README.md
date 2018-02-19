@@ -9,19 +9,19 @@ February 22, 2018 7pm @ [Clevermind](http://www.clevermind.fr/)
 ## Summary
 
 1. Blockchain & Crypto world intro
-  - History
-  - Events
-  - Usages
-    - Some coins
-    - Trading
-  - ICOs
-  - Smart contracts
+    - History
+    - Events
+    - Usages
+      - Some coins
+      - Trading
+    - ICOs
+    - Smart contracts
 2. Theory blockchain
 3. Naivechain
-  - Code review
-  - Make it works
-  - Issues / Hacks
-  - Improvements
+    - Code review
+    - Make it works
+    - Issues / Hacks
+    - Improvements
 
 ## Links
 
