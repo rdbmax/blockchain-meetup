@@ -42,13 +42,29 @@ How did the cryptocurrency came to life ? (See the most important events in the 
             - IOTA
             - Ripple
         - Trading
-            - Exchanges demo
+            - Demo Kraken / Binance
     - ICOs
+        - Whitepaper
+        - Token
+        - Team
+        - Scams
 
 ## Links
 
-- [Naivechain](https://github.com/lhartikk/naivechain)
+### History
 - [Crypto timeline](https://www.cryptotimeline.com/)
+- [DM Trading](https://dmtrading.fr/formation-crypto.php)
+
+### ICO
+- [tokenmarket.net](https://tokenmarket.net/)
+- [icobench.com](https://icobench.com/)
+- [icomarket.io](https://icomarket.io/)
+
+### Practice
+- [Naivechain](https://github.com/lhartikk/naivechain)
+
+### Meetup tools
+- [impress.js](https://github.com/impress/impress.js/)
 
 ## Contributors
 
