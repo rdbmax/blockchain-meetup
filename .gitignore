@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules
+
+# Windows
+Thumbs.db
+
+# Mac OSX
+*.DS_Store
