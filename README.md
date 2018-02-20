@@ -24,30 +24,32 @@ February 22, 2018 7pm @ [Clevermind](http://www.clevermind.fr/)
 
 ## Blockchain & Crypto world
 
+### Theory
 The Blockchain is about a **decentralized ledger**, where people around the same Business Network save the transactions. The purpose of creating that kind of technology is to get rid from the third part role.
 The very first Blockchain ever created, was Blockchain.
 
 Example : usage in Madame Michu building... bla bla bla...
 
-   - History
+### History / Events
 After the subprime crisis, relation ship with banks were complicated. A guy (or a group of people) using the nickname of Satoshi Nakamoto introduced for the first time an electronic currency that relies on the technology of Blockchain, where people does not need third part validation to exchange value.
 
 How did the cryptocurrency came to life ? (See the most important events in the Cryptotime website...)
 
-   - Usages
-        - Some coins
-            - BAT
-            - Etherum
-            - KYC legal
-            - IOTA
-            - Ripple
-        - Trading
-            - Demo Kraken / Binance
-    - ICOs
-        - Whitepaper
-        - Token
-        - Team
-        - Scams
+### Usages
+    - Some coins
+        - BAT
+        - Etherum
+        - KYC legal
+        - IOTA
+        - Ripple
+    - Trading
+        - Demo Kraken / Binance
+### ICOs
+    - Whitepaper
+    - Token
+    - Team
+    - Scams
+### Smart contracts
 
 ## Links
 
