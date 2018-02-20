@@ -55,7 +55,6 @@ How did the cryptocurrency came to life ? (See the most important events in the 
 
 ### History
 - [Crypto timeline](https://www.cryptotimeline.com/)
-- [DM Trading](https://dmtrading.fr/formation-crypto.php)
 
 ### ICO
 - [tokenmarket.net](https://tokenmarket.net/)
@@ -64,6 +63,10 @@ How did the cryptocurrency came to life ? (See the most important events in the 
 
 ### Practice
 - [Naivechain](https://github.com/lhartikk/naivechain)
+
+### Courses
+- [IBM Cognitive Class](https://cognitiveclass.ai/courses/blockchain-course/)
+- [DM Trading](https://dmtrading.fr/formation-crypto.php)
 
 ### Meetup tools
 - [impress.js](https://github.com/impress/impress.js/)
