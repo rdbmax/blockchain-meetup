@@ -1,0 +1,19 @@
+{
+  "name": "blockchain-meetup",
+  "version": "1.0.0",
+  "description": "## Event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdbmax/blockchain-meetup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdbmax/blockchain-meetup/issues"
+  },
+  "homepage": "https://github.com/rdbmax/blockchain-meetup#readme"
+}
