@@ -1,0 +1,12 @@
+
+Notes:
+Déroulement de la présentation de la Naivechain
+
+Présenter les méthodes permettant de démarrer deux serveurs en HTTP et P2P. Dans la vie rééelle, c'est les mineurs qui font tourner ces serveurs. Les utilisateuts ETH, BTC ou autre, ne sont pas obligés de tourner un serveur. Il suffit de se connecter sur un serveur oour avoir les infos.
+
+Les méthodes exposés permettent de voir le contenu de la Blockchain (liste des blocks), de lister les pairs connectés, ou encore de push d'un nouveau block.
+
+
+###########
+Composer d'IBM
+http://composer-playground.mybluemix.net/editor
