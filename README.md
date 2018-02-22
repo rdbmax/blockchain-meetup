@@ -7,6 +7,10 @@ February 22, 2018 7pm @ [Clevermind](http://www.clevermind.fr/)
 
 11 Rue Bailly, 92200 Neuilly-sur-Seine, France
 
+## Slides
+
+Presentation is hosted on github pages : [Slides](https://rdbmax.github.io/blockchain-meetup)
+
 ## Summary
 1. Blockchain & Crypto world
     - Theory blockchain
