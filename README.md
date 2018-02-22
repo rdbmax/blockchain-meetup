@@ -32,7 +32,7 @@ Presentation is hosted on github pages : [Slides](https://rdbmax.github.io/block
 The Blockchain is about a **decentralized ledger**, where people around the same Business Network save the transactions. The purpose of creating that kind of technology is to get rid from the third part role.
 The very first Blockchain ever created, was Blockchain.
 
-Example : usage in Madame Michu building... bla bla bla...
+Madame Michu building example
 
 ### History / Events
 After the subprime crisis, relation ship with banks were complicated. A guy (or a group of people) using the nickname of Satoshi Nakamoto introduced for the first time an electronic currency that relies on the technology of Blockchain, where people does not need third part validation to exchange value.
