@@ -32,3 +32,15 @@ ul {
 .right {
   text-align: right;
 }
+
+.img-wrapper {
+  height: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  height: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
