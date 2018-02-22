@@ -66,7 +66,7 @@ How did the cryptocurrency came to life ? (See the most important events in the 
 - [icomarket.io](https://icomarket.io/)
 
 ### Practice
-- [Naivechain](https://github.com/lhartikk/naivechain)
+- [Naivechain (fork)](https://github.com/rdbmax/naivechain)
 
 ### Courses
 - [IBM Cognitive Class](https://cognitiveclass.ai/courses/blockchain-course/)
